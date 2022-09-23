@@ -20,7 +20,7 @@ body{
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    background:linear-gradient(#FAAFBA, purple);
+    background:linear-gradient(rgb(102, 110, 200), rgb(31, 11, 61));
     padding:5.5rem;
 }
 
